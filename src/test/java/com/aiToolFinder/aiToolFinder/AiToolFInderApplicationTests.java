@@ -1,4 +1,4 @@
-package com.aiToolFinder.aiToolFInder;
+package com.aiToolFinder.aiToolFinder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
